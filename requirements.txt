@@ -1,1 +1,2 @@
 tutormagic==0.3.0
+RISE==5.6.1
